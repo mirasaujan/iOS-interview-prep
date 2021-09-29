@@ -1,6 +1,6 @@
-# iOS-Developer-university
+# iOS developer interview prep
 
-Curated list of topics  for iOS development with links to resources. This place would help beginners and experienced developers to prepare for the interview.
+Curated list of topics  for iOS development with links to resources. This place would help beginners and experienced developers prepare for the interview.
 
 ## Language
 ### Swift
