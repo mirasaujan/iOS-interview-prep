@@ -29,10 +29,8 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Auto layout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
 - [ ] [Tutorials](https://developer.apple.com/tutorials/app-dev-training/setting-constraints-with-auto-layout)
 - [ ] [Compression resistance and hugging priority](https://abhimuralidharan.medium.com/ios-content-hugging-and-content-compression-resistance-priorities-476fb5828ef)
-
-*Alternatives*
-- [ ] [Flex layout](https://github.com/layoutBox/FlexLayout)
-- [ ] [Texture](https://github.com/TextureGroup/Texture)
+- [ ] [Why Autolayout is bad](https://pilky.me/optimising-auto-layout/)
+- [ ] [Advanced auto layout toolbox](https://www.objc.io/issues/3-views/advanced-auto-layout-toolbox/)
 
 #### Other
 - [ ] [UICoordinateSpace](https://developer.apple.com/documentation/uikit/uicoordinatespace)
@@ -95,7 +93,11 @@ Instruments
 Simulation configuration
 Breakpoints
 
-## 3rd party library
+## Library
+Static
+Dynamic
+Difference
+
 CocoaPods
 Carthage
 SPM
