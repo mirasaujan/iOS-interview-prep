@@ -10,6 +10,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Value vs Reference, Stack vs Heap](https://abhimuralidharan.medium.com/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a)
 - [ ] [COW](https://medium.com/@marthin.pasaribu_72336/copy-on-write-cow-with-swift-ce6c6583de38)
 - [ ] [Closures](https://abhimuralidharan.medium.com/functional-swift-all-about-closures-310bc8af31dd)
+- [ ] [Method dispatch in Swift](https://trinhngocthuyen.github.io/posts/tech/method-dispatch-in-swift/)
 
 #### Objective-C
 - [ ] [Apple's Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
@@ -107,3 +108,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Xcode concepts](https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Schemes.html)
 - [ ] [Managing different Environments using XCode Build Schemes and Configurations](https://medium.com/flawless-app-stories/managing-different-environments-using-xcode-build-schemes-and-configurations-af7c43f5be19)
 - [ ] [Distribution](https://help.apple.com/xcode/mac/current/#/dev8b4250b57)
+
+## Algorithms
+- [ ] [Solutions to LeetCode in Swift](https://github.com/soapyigu/LeetCode-Swift)
+- [ ] [Data structures & algorithms](https://github.com/raywenderlich/swift-algorithm-club)
