@@ -95,6 +95,7 @@ Curated list of topics  for iOS development with links to resources. This place 
   - [ ] [KVO](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html#//apple_ref/doc/uid/10000177i)
 - [ ] [POP](https://asciiwwdc.com/2015/sessions/408)
 - [ ] [Protocol and Value oriented programming in UIKit Apps](https://asciiwwdc.com/2016/sessions/419)
+- [ ] [DI](https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a)
 - [ ] [Github repo](https://github.com/ochococo/OOD-Principles-In-Swift) showing SOLID principles
 - [ ] [SOLID in Swift](https://codeburst.io/solid-design-principle-using-swift-fa67443672b8)
 - [ ] [Anti patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
