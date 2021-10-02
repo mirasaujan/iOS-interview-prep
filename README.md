@@ -36,7 +36,6 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Tutorials](https://developer.apple.com/tutorials/app-dev-training/setting-constraints-with-auto-layout)
 - [ ] [Compression resistance and hugging priority](https://abhimuralidharan.medium.com/ios-content-hugging-and-content-compression-resistance-priorities-476fb5828ef)
 - [ ] [Why Autolayout is bad](https://pilky.me/optimising-auto-layout/)
-- [ ] [Advanced auto layout toolbox](https://www.objc.io/issues/3-views/advanced-auto-layout-toolbox/)
 - [ ] [ConstraintLayout vs Auto Layout: How Do They Compare](https://bignerdranch.com/blog/constraintlayout-vs-auto-layout-how-do-they-compare/)
 
 #### Other
