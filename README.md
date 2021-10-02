@@ -4,6 +4,10 @@
 </div>
 Curated list of topics  for iOS development with links to resources. This place would help beginners and experienced developers prepare for the interview.
 
+## Algorithms
+- [ ] [Solutions to LeetCode in Swift](https://github.com/soapyigu/LeetCode-Swift)
+- [ ] [Data structures & algorithms](https://github.com/raywenderlich/swift-algorithm-club)
+
 ## Language
 #### Swift
 - [ ] [Official Documentation](https://swift.org/documentation/)
@@ -42,10 +46,12 @@ Curated list of topics  for iOS development with links to resources. This place 
 
 #### Other
 - [ ] [Using Responders and the Responder Chain to Handle Events](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events)
+- [ ] [Hit testing](http://smnh.me/hit-testing-in-ios/)
 
 ## Memory management
 - [ ] [Stack VS Heap, Stack Promotion, Boxing of Swift Value Types](https://www.vadimbulavin.com/value-types-and-reference-types-in-swift/)
 - [ ] [Manual memory management](https://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
+- [ ] [Memory layout in Swift](https://www.youtube.com/watch?v=ERYNyrfXjlg&t=11s)
 - [ ] [ARC, memory, strong weak unowned, management issues](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
 - [ ] [Weak vs. Strong References in Swift](https://learnappmaking.com/weak-vs-strong-references-swift/)
 - [ ] [Advanced iOS memory management](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
@@ -108,7 +114,3 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Xcode concepts](https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Schemes.html)
 - [ ] [Managing different Environments using XCode Build Schemes and Configurations](https://medium.com/flawless-app-stories/managing-different-environments-using-xcode-build-schemes-and-configurations-af7c43f5be19)
 - [ ] [Distribution](https://help.apple.com/xcode/mac/current/#/dev8b4250b57)
-
-## Algorithms
-- [ ] [Solutions to LeetCode in Swift](https://github.com/soapyigu/LeetCode-Swift)
-- [ ] [Data structures & algorithms](https://github.com/raywenderlich/swift-algorithm-club)
