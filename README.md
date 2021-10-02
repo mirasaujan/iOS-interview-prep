@@ -89,13 +89,13 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] Cocoa Design Patterns
   - [ ] [old version](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html)
   - [ ] [new version](https://developer.apple.com/documentation/swift/cocoa_design_patterns)
+  - [ ] [KVC](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html#//apple_ref/doc/uid/10000107-SW1)
+  - [ ] [KVO](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html#//apple_ref/doc/uid/10000177i)
 - [ ] [POP](https://asciiwwdc.com/2015/sessions/408)
 - [ ] [Protocol and Value oriented programming in UIKit Apps](https://asciiwwdc.com/2016/sessions/419)
 - [ ] [Github repo](https://github.com/ochococo/OOD-Principles-In-Swift) showing SOLID principles
 - [ ] [SOLID in Swift](https://codeburst.io/solid-design-principle-using-swift-fa67443672b8)
 - [ ] [Anti patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
-- [ ] [KVC](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html#//apple_ref/doc/uid/10000107-SW1)
-- [ ] [KVO](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html#//apple_ref/doc/uid/10000177i)
 
 #### Other
 - [ ] [Declarative vs Imperative programming](https://medium.com/flawless-app-stories/declarative-and-imperative-programming-using-swiftui-and-uikit-c91f1f104252)
