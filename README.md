@@ -54,6 +54,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Memory layout in Swift](https://www.youtube.com/watch?v=ERYNyrfXjlg&t=11s)
 - [ ] [ARC, memory, strong weak unowned, management issues](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
 - [ ] [Weak vs. Strong References in Swift](https://learnappmaking.com/weak-vs-strong-references-swift/)
+- [ ] [unsafe_unretained](https://stackoverflow.com/questions/15968198/what-is-the-use-of-unsafe-unretained-attribute)
 - [ ] [Advanced iOS memory management](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
 - [ ] [Autorelease](https://medium.com/swift2go/autoreleasepool-uses-in-2019-swift-9e8fd7b1cd3f) open in tab with privacy mode on
 - [ ] [Capture list](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
