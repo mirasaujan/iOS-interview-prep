@@ -1,4 +1,7 @@
-# iOS developer interview prep
+<div align="center">
+	<img src="https://github.com/mirasaujan/iOS-Developer-university/blob/main/ios_interview_prep_icon.png" alt="">
+	<h1>iOS developer interview prep</h1>
+</div>
 Curated list of topics  for iOS development with links to resources. This place would help beginners and experienced developers prepare for the interview.
 
 ## Language
