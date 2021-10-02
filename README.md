@@ -87,6 +87,8 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Github repo](https://github.com/ochococo/OOD-Principles-In-Swift) showing SOLID principles
 - [ ] [SOLID in Swift](https://codeburst.io/solid-design-principle-using-swift-fa67443672b8)
 - [ ] [Anti patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
+- [ ] [KVC](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html#//apple_ref/doc/uid/10000107-SW1)
+- [ ] [KVO](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html#//apple_ref/doc/uid/10000177i)
 
 #### Other
 - [ ] [Declarative vs Imperative programming](https://medium.com/flawless-app-stories/declarative-and-imperative-programming-using-swiftui-and-uikit-c91f1f104252)
@@ -104,3 +106,4 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [A dive into Xcode projects and workspaces](https://mokacoding.com/blog/xcode-projects-and-workspaces/)
 - [ ] [Xcode concepts](https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Schemes.html)
 - [ ] [Managing different Environments using XCode Build Schemes and Configurations](https://medium.com/flawless-app-stories/managing-different-environments-using-xcode-build-schemes-and-configurations-af7c43f5be19)
+- [ ] [Distribution](https://help.apple.com/xcode/mac/current/#/dev8b4250b57)
