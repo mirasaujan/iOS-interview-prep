@@ -67,6 +67,8 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Parallel programming with swift](https://medium.com/swift-india/parallel-programming-with-swift-part-2-4-46a3c6262359)
 - [ ] [Threading Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/Introduction/Introduction.html) 
 - [ ] [Concurrency pitfalls](https://medium.com/flawless-app-stories/concurrency-visualized-part-3-pitfalls-and-conclusion-2b893e04b97d)
+- [ ] [Avoiding race conditions](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26)
+- [ ] [Thread safety in iOS to avoid race conditions/deadlock](https://varun04tomar.medium.com/thread-safety-in-ios-to-avoid-race-conditions-read-and-write-problem-deadlock-swift-4a583e1b8a95)
 
 #### Other
 - [ ] [?Async/Await](https://developer.apple.com/news/?id=2o3euotz)
