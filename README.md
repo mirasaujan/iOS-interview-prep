@@ -37,6 +37,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Compression resistance and hugging priority](https://abhimuralidharan.medium.com/ios-content-hugging-and-content-compression-resistance-priorities-476fb5828ef)
 - [ ] [Why Autolayout is bad](https://pilky.me/optimising-auto-layout/)
 - [ ] [Advanced auto layout toolbox](https://www.objc.io/issues/3-views/advanced-auto-layout-toolbox/)
+- [ ] [ConstraintLayout vs Auto Layout: How Do They Compare](https://bignerdranch.com/blog/constraintlayout-vs-auto-layout-how-do-they-compare/)
 
 #### Other
 - [ ] [Using Responders and the Responder Chain to Handle Events](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events)
@@ -50,6 +51,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Autorelease](https://medium.com/swift2go/autoreleasepool-uses-in-2019-swift-9e8fd7b1cd3f) open in tab with privacy mode on
 - [ ] [Capture list](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
 - [ ] [You don't always need weak self](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
+- [ ] [Memory leaks](https://medium.com/flawless-app-stories/all-about-memory-leaks-in-ios-cdd450d0cc34)
 
 ## Concurrency
 - [ ] [Swift Concurrency Documentation](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
@@ -57,7 +59,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Concurrency Programming Guide](https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091-CH1-SW1)
 - [ ] [Parallel programming with swift](https://medium.com/swift-india/parallel-programming-with-swift-part-2-4-46a3c6262359)
 - [ ] [Threading Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/Introduction/Introduction.html) 
-- [ ] TODO: Multithreading issues
+- [ ] [Concurrency pitfalls](https://medium.com/flawless-app-stories/concurrency-visualized-part-3-pitfalls-and-conclusion-2b893e04b97d)
 
 #### Other
 - [ ] [?Async/Await](https://developer.apple.com/news/?id=2o3euotz)
@@ -86,6 +88,9 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [SOLID in Swift](https://codeburst.io/solid-design-principle-using-swift-fa67443672b8)
 - [ ] [Anti patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
 
+#### Other
+- [ ] [Declarative vs Imperative programming](https://medium.com/flawless-app-stories/declarative-and-imperative-programming-using-swiftui-and-uikit-c91f1f104252)
+
 ## Library
 - [ ] [What is a library](https://theswiftdev.com/building-static-and-dynamic-swift-libraries-using-the-swift-compiler/)
 - [ ] [Static and dynamic frameworks](https://www.vadimbulavin.com/static-dynamic-frameworks-and-libraries/)
@@ -98,3 +103,4 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Xcode build system](https://www.vadimbulavin.com/xcode-build-system/)
 - [ ] [A dive into Xcode projects and workspaces](https://mokacoding.com/blog/xcode-projects-and-workspaces/)
 - [ ] [Xcode concepts](https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Schemes.html)
+- [ ] [Managing different Environments using XCode Build Schemes and Configurations](https://medium.com/flawless-app-stories/managing-different-environments-using-xcode-build-schemes-and-configurations-af7c43f5be19)
