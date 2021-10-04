@@ -35,6 +35,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 
 #### View
 - [ ] [UIView](https://developer.apple.com/documentation/uikit/uiview)
+- [ ] [UIView programming guide](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2)
 - [ ] [UIStackView](https://developer.apple.com/documentation/uikit/uistackview)
 - [ ] [Layout cycle](https://tech.gc.com/demystifying-ios-layout/)
 - [ ] [Drawing](https://developer.apple.com/documentation/uikit/drawing)
