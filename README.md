@@ -18,6 +18,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 
 #### Objective-C
 - [ ] [Apple's Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+- [ ] [objc_msgsends](https://www.mikeash.com/pyblog/objc_msgsends-new-prototype.html)
 
 ## UIKit
 #### App
