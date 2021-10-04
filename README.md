@@ -23,9 +23,11 @@ Curated list of topics  for iOS development with links to resources. This place 
 ## UIKit
 #### App
 - [ ] [Managing Your App's Life Cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
+- [ ] [Application life cycle in iOS](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636)
+- [ ] [About the App launch sequence](https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app/about_the_app_launch_sequence)
 - [ ] [Preparing Your UI to Run in the Foreground](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_foreground)
 - [ ] [Preparing Your UI to Run in the Background](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background)
-- [ ] [Processing Queued Notifications](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_foreground/processing_queued_notifications)
+- [ ] [Preserving Your App's UI Across Launches](https://developer.apple.com/documentation/uikit/view_controllers/preserving_your_app_s_ui_across_launches)
 
 #### View controller
 - [ ] [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller)
@@ -48,6 +50,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 #### Other
 - [ ] [Using Responders and the Responder Chain to Handle Events](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events)
 - [ ] [Hit testing](http://smnh.me/hit-testing-in-ios/)
+- [ ] [The iOS ecosystem](https://bobthedev.gitbooks.io/the-uikit-fundamentals-with-bob/content/course/ios-ecosystem/app-life-cycle.html)
 
 ## Memory management
 - [ ] [Stack VS Heap, Stack Promotion, Boxing of Swift Value Types](https://www.vadimbulavin.com/value-types-and-reference-types-in-swift/)
