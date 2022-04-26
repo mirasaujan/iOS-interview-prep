@@ -15,6 +15,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [COW](https://medium.com/@marthin.pasaribu_72336/copy-on-write-cow-with-swift-ce6c6583de38)
 - [ ] [Closures](https://abhimuralidharan.medium.com/functional-swift-all-about-closures-310bc8af31dd)
 - [ ] [Method dispatch](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+- [ ] [HEAP Object](https://github.com/apple/swift/blob/main/stdlib/public/SwiftShims/RefCount.h)
 
 #### Objective-C
 - [ ] [Apple's Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
@@ -25,9 +26,6 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Managing Your App's Life Cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
 - [ ] [Application life cycle in iOS](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636)
 - [ ] [About the App launch sequence](https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app/about_the_app_launch_sequence)
-- [ ] [Preparing Your UI to Run in the Foreground](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_foreground)
-- [ ] [Preparing Your UI to Run in the Background](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background)
-- [ ] [Preserving Your App's UI Across Launches](https://developer.apple.com/documentation/uikit/view_controllers/preserving_your_app_s_ui_across_launches)
 
 #### View controller
 - [ ] [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller)
