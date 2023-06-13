@@ -13,7 +13,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Value vs Reference, Stack vs Heap](https://abhimuralidharan.medium.com/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a)
 - [ ] [COW](https://medium.com/@marthin.pasaribu_72336/copy-on-write-cow-with-swift-ce6c6583de38)
 - [ ] [Closures](https://abhimuralidharan.medium.com/functional-swift-all-about-closures-310bc8af31dd)
-- [ ] [Method dispatch](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+- [ ] [Method dispatch](https://maxim-kryloff.medium.com/swift-method-dispatch-4ac7efab0388)
 - [ ] [Generics](https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started)
 
 ## Memory management
