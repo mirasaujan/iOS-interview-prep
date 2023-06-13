@@ -14,7 +14,6 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [COW](https://medium.com/@marthin.pasaribu_72336/copy-on-write-cow-with-swift-ce6c6583de38)
 - [ ] [Closures](https://abhimuralidharan.medium.com/functional-swift-all-about-closures-310bc8af31dd)
 - [ ] [Method dispatch](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
-- [ ] [HEAP Object](https://github.com/apple/swift/blob/main/stdlib/public/SwiftShims/RefCount.h)
 - [ ] [Generics](https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started)
 
 ## Memory management
