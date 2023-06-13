@@ -22,9 +22,8 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Memory layout in Swift](https://www.youtube.com/watch?v=ERYNyrfXjlg&t=11s) (Highly recommend)
 - [ ] [Advanced iOS memory management](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
 - [ ] [Capture list](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
-- [ ] [Autorelease](https://medium.com/swift2go/autoreleasepool-uses-in-2019-swift-9e8fd7b1cd3f) open in tab with privacy mode on
+- [ ] [Autorelease](https://betterprogramming.pub/what-is-autorelease-pool-in-swift-c652784f329e)
 - [ ] [unsafe_unretained](https://stackoverflow.com/questions/15968198/what-is-the-use-of-unsafe-unretained-attribute)
-- [ ] [You don't always need weak self](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
 - [ ] [Memory leaks](https://medium.com/flawless-app-stories/all-about-memory-leaks-in-ios-cdd450d0cc34)
 - [ ] [Manual memory management](https://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
 
@@ -45,7 +44,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 
 ## UIKit
 #### App
-- [ ] [Managing Your App's Life Cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
+- [ ] [Managing Your App's Life Cycle](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/)
 - [ ] [Application life cycle in iOS](https://manasaprema04.medium.com/application-life-cycle-in-ios-f7365d8c1636)
 - [ ] [Relationship between UIApplication, UIApplicationDelegate, UISceneDelegate](https://manasaprema04.medium.com/scene-delegate-vs-appdelegate-86e22dc17fcb)
 
