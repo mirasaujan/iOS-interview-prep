@@ -2,7 +2,7 @@
 	<img src="https://github.com/mirasaujan/iOS-Developer-university/blob/main/ios_interview_prep_icon.png" alt="">
 	<h1>iOS developer interview prep</h1>
 </div>
-Curated list of topics  for iOS development with links to resources. This place would help beginners and experienced developers prepare for the interview.
+Curated list of topics  for iOS development with links to resources. This place would help beginners and experienced developers prepare for the interview. 
 
 ## Algorithms
 - [ ] [Solutions to LeetCode in Swift](https://github.com/soapyigu/LeetCode-Swift)
@@ -66,10 +66,11 @@ Curated list of topics  for iOS development with links to resources. This place 
 
 ## Architecture
 - [ ] [MVC](https://medium.com/flawless-app-stories/the-only-viable-ios-architecture-c42f7b4c845d)
+- [ ] [Service-Oriented Architecture](https://livefront.com/writing/creating-a-service-layer-in-swift/)
+- [ ] [Modular architecture](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99)
 - [ ] [?VIPER](https://www.objc.io/issues/13-architecture/viper/)
 - [ ] [?Implementing VIPER architecture](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2)
 - [ ] [?MVVM](https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9)
-- [ ] [Modular architecture](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99)
 
 #### Other
 - [ ] [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
@@ -82,8 +83,8 @@ Curated list of topics  for iOS development with links to resources. This place 
   - [ ] [new version](https://developer.apple.com/documentation/swift/cocoa_design_patterns)
   - [ ] [KVC](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html#//apple_ref/doc/uid/10000107-SW1)
   - [ ] [KVO](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html#//apple_ref/doc/uid/10000177i)
-- [ ] [POP](https://asciiwwdc.com/2015/sessions/408)
-- [ ] [Protocol and Value oriented programming in UIKit Apps](https://asciiwwdc.com/2016/sessions/419)
+- [ ] [POP](https://www.youtube.com/watch?v=p3zo4ptMBiQ&pp=ygUjcHJvdG9jb2wgb3JpZW50ZWQgcHJvZ3JhbW1pbmcgc3dpZnQ%3D)
+- [ ] [Protocol and Value oriented programming in UIKit Apps](https://www.youtube.com/watch?v=SCW0lb7qClw)
 - [ ] [Github repo](https://github.com/ochococo/OOD-Principles-In-Swift) showing SOLID principles
 - [ ] [SOLID in Swift](https://codeburst.io/solid-design-principle-using-swift-fa67443672b8)
 - [ ] [DI](https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a)
@@ -114,9 +115,15 @@ Further material is not asked in the interview, but nice to know
 - [ ] [Distribution](https://help.apple.com/xcode/mac/current/#/dev8b4250b57)
 
 ---
-Hopefully, you found the following material useful. It will always be open to improvement. If you find a great material that you think is frequently asked on the interviews, do not hesitate to submit a PR.
+## Community
+- Hopefully, you found the following material useful. It will always be open to improvement. If you find a great material that you think is frequently asked on the interviews, do not hesitate to submit a PR.
+- You find a broken link, please, contact me on one of socials below or drop an issue on the repo!
 
-## Mock Interview
-If you are interested in testing your abilities before going to a real interview you can contact me for a paid mock interview.
+<div align="center">
+	<h2>Mock Interview</h2>
+</div>
+I also conduct mock interviews. You can schedule one by contacting me on one of these socials.
+<br>
 📩 - mirasaujan@gmail.com
-✈️ - ya_miras
+<br>
+✈️ - http://t.me/ya_miras
